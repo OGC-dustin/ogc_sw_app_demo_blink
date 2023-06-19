@@ -1,0 +1,6 @@
+#ifndef OGC_APP_DEMO_BLINK_H
+#define OGC_APP_DEMO_BLINK_H
+
+
+
+#endif /* OGC_APP_DEMO_BLINK_H */
